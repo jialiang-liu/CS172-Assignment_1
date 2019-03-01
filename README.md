@@ -3,16 +3,16 @@ Python Version: 3.6
 OS:  Mac OS 10.14
 
 ## File Directory
-├── README.md
-├── data
-            ├── file01.txt
-            ├── file02.txt
-            ├── ......
-            ├── file20.txt
-├── Q1.pdf
-├── project.py
-├── project_with_stemmer.py
-├── stoplist.txt
+├── README.md  
+├── data  
+            ├── file01.txt  
+            ├── file02.txt  
+            ├── ......  
+            ├── file20.txt  
+├── Q1.pdf  
+├── project.py  
+├── project_with_stemmer.py  
+├── stoplist.txt  
 
 ## Code Design
 For problems associate with machine learning and crawling, Python is the best choice for coding. But it's "lack" of data structures makes it more complicated to design the structure of index table. But a good outcome is I can design my own structure that is the best fit of our purpose.
